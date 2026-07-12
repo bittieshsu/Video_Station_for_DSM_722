@@ -1,4 +1,4 @@
-# <img src="images/VideoStation_64.png" width="40"> Video Station for DSM 7.2.2 and DSM 7.3.x
+# <img src="images/VideoStation_64.png" width="40"> Video Station for DSM 7.2.2, 7.3.x and 7.4.x
 
 <a href="https://github.com/007revad/Video_Station_for_DSM_722/releases"><img src="https://img.shields.io/github/release/007revad/Video_Station_for_DSM_722.svg"></a>
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F007revad%2FVideo_Station_for_DSM_722&label=Visitors&icon=github&color=%23198754&message=&style=flat&tz=Australia%2FSydney)
@@ -10,7 +10,7 @@ The Video Station icon above is Copyright © 2004-2026 [Synology Inc.](https://k
 
 ### Description
 
-Script to install Video Station in DSM 7.2.2, 7.3, 7.3.1 and 7.3.2
+Script to install Video Station in DSM 7.2.2, 7.3, 7.3.1, 7.3.2 and 7.4
 
 Also installs the DSM 7.2.1 version of Advanced Media Codecs so that Synology Photos can create thumbnails of HEIC photos.
 
